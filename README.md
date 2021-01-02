@@ -7,40 +7,40 @@
 - 👯 I’m looking to collaborate, but typically a lonewolf.
 - 🥅 Goals: Make tech videos/documents, get my code into github, become less stressed. 
 - ⚡ Facts: Excellent work ethic. Total dedication. No time for nonsense. Enjoy running, astronomy, and love Xbox.
-- ✍️ Wrote my first science-fiction, dytopian novel. Planning on writing a space horror. Wrting is my second passion.  
+- ✍️ Wrote my first science-fiction, dytopian novel named [Invisible War]. Planning on writing a space horror. Writing is my second passion.  
 
 ### Connect with me:
 
-[<img align="left" alt="YouTube" width="40px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/youtube.png" />][youtube]
-[<img align="left" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="facebook" width="40px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/facebook.png" />][facebook]
-[<img align="left" alt="Instagram" width="40px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/instagram.jpg" />][instagram]
+[<img align="left" alt="YouTube" width="25px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/youtube.png" />][youtube]
+[<img align="left" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="facebook" width="25px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/facebook.png" />][facebook]
+[<img align="left" alt="Instagram" width="25px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/instagram.jpg" />][instagram]
 
 <br /><br />
-
+ 
 ### Languages and Tools:
 
-I have extensive knowledge with several languages and tools. My track record is proven for the many years at Symantec.
+I have extensive knowledge with several languages and tools. My track record is proven, with the many years at Symantec.
 
-[<img align="left" alt="cplusplus" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/c-logo.png" />][cplusplus]
+[<img align="left" alt="cplusplus" width="50px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/c-logo.png" />][cplusplus]
 [<img align="left" alt="csharp" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/csharp.png" />][csharp]
 [<img align="left" alt="python" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/python.png" />][python]
-[<img align="left" alt="php" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/phpmyadmin.png" />][php]
-[<img align="left" alt="cbuilder" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/c-builder.png" />][cbuilder]
-[<img align="left" alt="coverity" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/coverity-logo.png" />][coverity]
+[<img align="left" alt="php" width="65px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/phpmyadmin.png" />][php]
+[<img align="left" alt="cbuilder" width="40px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/c-builder.png" />][cbuilder]
+[<img align="left" alt="coverity" width="100px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/coverity-logo.png" />][coverity]
 [<img align="left" alt="blackduck" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/blackduck.png" />][blackduck]
-[<img align="left" alt="inno" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/inno_setup.png" />][inno]
+[<img align="left" alt="inno" width="40px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/inno_setup.png" />][inno]
 [<img align="left" alt="vsphere" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/vmware-vsphere.png" />][vsphere]
-[<img align="left" alt="visualstudio" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/vs2019.png" />][visualstudio]
-[<img align="left" alt="groovy" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/groovy.png" />][groovy]
-[<img align="left" alt="win10" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/win10.jpg" />][win10]
+[<img align="left" alt="visualstudio" width="40px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/vs2019.png" />][visualstudio]
+[<img align="left" alt="groovy" width="80px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/groovy.png" />][groovy]
+[<img align="left" alt="win10" width="80px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/win10.jpg" />][win10]
 [<img align="left" alt="linux" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/linux.png" />][Linux]
 [<img align="left" alt="github" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/github.png" />][GitHub]
 [<img align="left" alt="jenkins" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/jenkins.png" />][Jenkins]
 [<img align="left" alt="docker" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/docker.png" />][Docker]
 [<img align="left" alt="artifactory" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/jfrog.png" />][Artifactory]
 
-
+   
 
 <br />
 <br />
@@ -53,6 +53,7 @@ I have extensive knowledge with several languages and tools. My track record is 
 [youtube]: https://www.youtube.com/user/christopherwinters
 [instagram]: https://www.instagram.com/sorrynofocus/
 [linkedin]: https://www.linkedin.com/in/christopherwinters/
+[Invisible War]: https://www.amazon.com/Invisible-War-Chris-Winters/dp/0998020915/ref=sr_1_1?dchild=1&keywords=chris+winters+invisible+war
 
 [cplusplus]: https://en.wikipedia.org/wiki/C++
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
