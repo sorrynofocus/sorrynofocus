@@ -1,8 +1,8 @@
-## Hi there, I'm Chris. Sorrynofocus. Pashed Motatoes!
+## Hi there, I'm Chris. Sorrynofocus. And, I love Pashed Motatoes!
 
 ### I'm an engineer. I love automation, desktop application development, and honeybees. 🐝
 
-- 🔭 Currently employed with Symantec/Broadcom as a Engineering Program Manager (fancy name for Senior). Before the buyout, I've been a software engineer for Symantec since 2001. 
+- 🔭 Currently employed with Symantec/Broadcom as an Engineering Program Manager (fancy name for Senior). Before the buyout, I've been a software engineer for Symantec since 2001. 
 - 🌱 Persistent studies, consuming lectures on engineering. 🤣
 - 👯 I’m looking to collaborate, but typically a lonewolf.
 - 🥅 Goals: Make tech videos/documents, get my code into github, become less stressed. 
@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/youtube.png" />][youtube]
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="facebook" width="22px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/facebook.png" />][facebook]
-[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/instagram.jpg" />][instagram]
+[<img align="left" alt="YouTube" width="40px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/youtube.png" />][youtube]
+[<img align="left" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="facebook" width="40px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/facebook.png" />][facebook]
+[<img align="left" alt="Instagram" width="40px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/instagram.jpg" />][instagram]
 
 <br /><br />
 
