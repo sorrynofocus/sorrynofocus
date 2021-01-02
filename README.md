@@ -2,11 +2,11 @@
 
 ### I'm an engineer. I love automation, desktop application development, and honeybees. 🐝
 
-- 🔭 I’m currently employed with Symantec/Broadcom as a Engineering Program Manager (fancy name for Senior). Before the buyout, I've been a software engineer for Symantec since 2001. 
-- 🌱 I’m always consuming lectures for persistent studies. 🤣
+- 🔭 Currently employed with Symantec/Broadcom as a Engineering Program Manager (fancy name for Senior). Before the buyout, I've been a software engineer for Symantec since 2001. 
+- 🌱 Persistent studies, consuming lectures on engineering. 🤣
 - 👯 I’m looking to collaborate, but typically a lonewolf.
 - 🥅 Goals: Make tech videos/documents, get my code into github, become less stressed. 
-- ⚡ Facts: Excellent work ethic. Total dedication. No time for nonsense. Enjoy running, astrology, and love Xbox.
+- ⚡ Facts: Excellent work ethic. Total dedication. No time for nonsense. Enjoy running, astronomy, and love Xbox.
 - ✍️ Wrote my first science-fiction, dytopian novel. Planning on writing a space horror. Wrting is my second passion.  
 
 ### Connect with me:
@@ -22,23 +22,23 @@
 
 I have extensive knowledge with several languages and tools. My track record is proven for the many years at Symantec.
 
-[<img align="left" alt="cplusplus" width="30px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/c-logo.png" />][cplusplus]
-[<img align="left" alt="csharp" width="30px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/csharp.png" />][csharp]
-[<img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/python.png" />][python]
-[<img align="left" alt="php" width="30px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/phpmyadmin.png" />][php]
-[<img align="left" alt="cbuilder" width="30px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/c-builder.png" />][cbuilder]
-[<img align="left" alt="coverity" width="30px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/coverity-logo.png" />][coverity]
-[<img align="left" alt="blackduck" width="30px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/blackduck.png" />][blackduck]
-[<img align="left" alt="inno" width="30px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/inno_setup.png" />][inno]
-[<img align="left" alt="vsphere" width="30px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/vmware-vsphere.png" />][vsphere]
-[<img align="left" alt="visualstudio" width="30px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/vs2019.png" />][visualstudio]
-[<img align="left" alt="groovy" width="30px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/groovy.png" />][groovy]
-[<img align="left" alt="win10" width="30px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/win10.jpg" />][win10]
-[<img align="left" alt="linux" width="30px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/linux.png" />][Linux]
-[<img align="left" alt="github" width="30px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/github.png" />][GitHub]
-[<img align="left" alt="jenkins" width="30px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/jenkins.png" />][Jenkins]
-[<img align="left" alt="docker" width="30px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/docker.png" />][Docker]
-[<img align="left" alt="artifactory" width="30px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/jfrog.png" />][Artifactory]
+[<img align="left" alt="cplusplus" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/c-logo.png" />][cplusplus]
+[<img align="left" alt="csharp" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/csharp.png" />][csharp]
+[<img align="left" alt="python" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/python.png" />][python]
+[<img align="left" alt="php" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/phpmyadmin.png" />][php]
+[<img align="left" alt="cbuilder" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/c-builder.png" />][cbuilder]
+[<img align="left" alt="coverity" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/coverity-logo.png" />][coverity]
+[<img align="left" alt="blackduck" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/blackduck.png" />][blackduck]
+[<img align="left" alt="inno" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/inno_setup.png" />][inno]
+[<img align="left" alt="vsphere" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/vmware-vsphere.png" />][vsphere]
+[<img align="left" alt="visualstudio" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/vs2019.png" />][visualstudio]
+[<img align="left" alt="groovy" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/groovy.png" />][groovy]
+[<img align="left" alt="win10" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/win10.jpg" />][win10]
+[<img align="left" alt="linux" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/linux.png" />][Linux]
+[<img align="left" alt="github" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/github.png" />][GitHub]
+[<img align="left" alt="jenkins" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/jenkins.png" />][Jenkins]
+[<img align="left" alt="docker" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/docker.png" />][Docker]
+[<img align="left" alt="artifactory" width="60px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/jfrog.png" />][Artifactory]
 
 
 
