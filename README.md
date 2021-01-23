@@ -13,7 +13,7 @@
 
 [<img align="left" alt="YouTube" width="25px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/youtube.png" />][youtube]
 [<img align="left" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="facebook" width="25px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/facebook.png" />][facebook]
+<!-- [<img align="left" alt="facebook" width="25px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/facebook.png" />][facebook] -->
 [<img align="left" alt="Instagram" width="25px" src="https://raw.githubusercontent.com/sorrynofocus/sorrynofocus/master/icons/instagram.jpg" />][instagram]
 
 <br /><br />
