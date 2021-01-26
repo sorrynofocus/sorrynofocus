@@ -5,7 +5,7 @@
 - 🔭 Currently employed with Symantec/Broadcom as an Engineering Program Manager (fancy name for Senior). Before the buyout, I've been a software engineer for Symantec since 2001. 
 - 🌱 Persistent studies, consuming lectures on engineering. 🤣
 - 👯 I’m looking to collaborate, but typically a lonewolf.
-- 🥅 Goals: Make tech videos/documents, become less stressed. Will try harder to get my personal code up --as most work is in github enterprise. 
+- 🥅 Goals: Make tech videos/documents, become less stressed. Will try harder to get my personal code up. Most of my work is in github enterprise, where I work, and I can't submit that. 👎
 - ⚡ Facts: Excellent work ethic. Total dedication. No time for nonsense. Enjoy running, astronomy, and love Xbox.
 - ✍️ Wrote my first science-fiction, dytopian novel named [Invisible War]. Planning on writing a space horror. Writing is my second passion.  
 
