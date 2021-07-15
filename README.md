@@ -1,4 +1,4 @@
-## Hi there, I'm Chris. Sorrynofocus. And, I love Pashed Motatoes!
+## Hi there, I'm Chris! And, I love Pashed Motatoes!
 
 ### I'm an engineer. I love automation, desktop application development, and honeybees. 🐝
 
