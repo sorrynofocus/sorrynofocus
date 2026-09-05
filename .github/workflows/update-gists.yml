@@ -1,0 +1,167 @@
+# -----------------------------------------------------------------------------
+# README Gist Section Maintenance
+#
+# This workflow updates the gist list inside README.md.
+# Features:
+# Newest first: sort_by(.created_at) | reverse[]
+# Human-readable timestamp: 2026-08-15 21:32 UTC
+# Per-gist file count: automatically uses 1 file vs. 2 files
+# Overall totals: 23 gists / 47 files
+# Empty descriptions: both null and "" become 'Untitled Gist'
+# README formatting: everything outside the two markers is left alone
+# Auto-generated warning: recreated each run instead of disappearing
+# Safety check: the job fails rather than silently mangling the README if either marker is accidentally removed
+# No pointless commit: it only commits and pushes when the generated section has actually changed (editing 
+# a gist won't cause a commit unless something represented in this list actually changes).
+# Los Angeles scheduling: runs at 3:00 AM using America/Los_Angeles.
+#
+# README.md must contain these /EXACT/ markers:
+#
+# <!-- GISTS-START -->
+# <!-- GISTS-END -->
+#
+# Recommended struct:
+#
+# <details>
+# <summary><strong>Checkout my Gists...</strong></summary>
+# <!-- GISTS-START -->
+# <!-- This section is auto-generated. Do not edit manually. -->
+# <!-- GISTS-END -->
+# </details>
+#
+# If either marker is removed, this workflow will intentionally fail without
+# modifying or committing README.md (err checking for missing markers).
+#
+# -----------------------------------------------------------------------------
+
+name: Update Gists List in sorrynofocus/sorrynofocus/README.md
+
+on:
+  schedule:
+    - cron: "0 3 1 * *"   # 3:00 AM Los Angeles time on the 1st of each month
+      timezone: "America/Los_Angeles"
+ #trigger it manually as well...
+  workflow_dispatch:
+
+permissions:
+        contents: write
+
+# Total list of jobs: 
+#   - update-gists: Updates the list of gists in the README.md file
+
+jobs:
+  update-gists:
+    runs-on: ubuntu-latest
+
+    # List of steps:
+    # Steps include:
+    #   - Checkout sorrynofocus repository
+    #   - Fetch all gists
+    #   - Construct Markdown list
+    #   - Update sorrynofocus/sorrynofocus/README.md
+    #   - Commit/push changes
+    steps:
+      - name: Checkout sorrynofocus repository
+        uses: actions/checkout@v4
+
+      - name: Fetch all gists
+        run: |
+          curl --fail --silent --show-error \
+            "https://api.github.com/users/sorrynofocus/gists?per_page=100" \
+            > gists.json
+
+      - name: Construct Markdown list
+        run: |
+          # Calculate totals
+          GIST_COUNT=$(jq 'length' gists.json)
+          FILE_COUNT=$(jq '[.[].files | length] | add // 0' gists.json)
+
+          # Build generated section
+          {
+            echo "<!-- This section is auto-generated. Do not edit manually. -->"
+            echo ""
+            echo "**${GIST_COUNT} gists / ${FILE_COUNT} files**"
+            echo ""
+
+            jq -r '
+              sort_by(.created_at) | reverse[] |
+
+              "- [" +
+              (
+                if ((.description // "") | length) > 0
+                then .description
+                else "Untitled Gist"
+                end
+              ) +
+              "](" + .html_url + ") — " +
+
+              (
+                .created_at
+                | fromdateiso8601
+                | strftime("%Y-%m-%d %H:%M UTC")
+              ) +
+
+              " — " +
+
+              ((.files | length) | tostring) + " " +
+              (
+                if (.files | length) == 1
+                then "file"
+                else "files"
+                end
+              )
+            ' gists.json
+          } > gists.md
+
+      - name: Update sorrynofocus/sorrynofocus/README.md
+        run: |
+          awk '
+            BEGIN {
+              inside=0
+              found_start=0
+              found_end=0
+            }
+
+            /<!-- GISTS-START -->/ {
+              print
+              print ""
+              system("cat gists.md")
+              inside=1
+              found_start=1
+              next
+            }
+
+            /<!-- GISTS-END -->/ {
+              inside=0
+              found_end=1
+              print
+              next
+            }
+
+            !inside {
+              print
+            }
+
+            END {
+              if (!found_start || !found_end) {
+                print "ERROR: GISTS markers not found in sorrynofocus/sorrynofocus/README!!! See comments in workflow!" > "/dev/stderr"
+                exit 1
+              }
+            }
+          ' README.md > README.new
+
+          mv README.new README.md
+
+      - name: Commit/push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Monthly gist update in sorrynofocus/sorrynofocus/README.md"
+            git push
+          fi
