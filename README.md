@@ -12,9 +12,10 @@
 
 <!-- This section is auto-generated. Do not edit manually. -->
 
-**3 gists / 3 files**
+**4 gists / 4 files**
 
-- [Untitled Gist](https://gist.github.com/sorrynofocus/9e61613e67add2c37b7921b25edf1f30) — 2026-07-20 00:58 UTC — 1 file
+- [My Claude-Agents instruction file](https://gist.github.com/sorrynofocus/aa01e52eb0cdd77d1a08a6c7ae2e068a) — 2026-07-20 15:53 UTC — 1 file
+- [ Azure Portal MFA Failure with a Personal Microsoft Account](https://gist.github.com/sorrynofocus/9e61613e67add2c37b7921b25edf1f30) — 2026-07-20 00:58 UTC — 1 file
 - [uv + artifactory + python ](https://gist.github.com/sorrynofocus/bb9892ddef0bde186504820e996149f8) — 2026-07-17 19:34 UTC — 1 file
 - [Simplistic Personal Workflow (Agents assist template)](https://gist.github.com/sorrynofocus/e0fdecff0d32b837db81bee3c8bf2721) — 2026-07-16 03:07 UTC — 1 file
 <!-- GISTS-END -->
