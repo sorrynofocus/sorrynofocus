@@ -12,8 +12,9 @@
 
 <!-- This section is auto-generated. Do not edit manually. -->
 
-**5 gists / 5 files**
+**6 gists / 6 files**
 
+- [Cmake starter template 001](https://gist.github.com/sorrynofocus/c5ed2425d37352368052955323211daa)  [2026-09-12 04:22 UTC] - 1 file
 - [Build CMake under Windows /w Visual Studio 2022](https://gist.github.com/sorrynofocus/8b487ac347a932f6a414e45d0f8ba154)  [2026-09-05 04:52 UTC] - 1 file
 - [My Claude-Agents instruction file](https://gist.github.com/sorrynofocus/aa01e52eb0cdd77d1a08a6c7ae2e068a)  [2026-07-20 15:53 UTC] - 1 file
 - [ Azure Portal MFA Failure with a Personal Microsoft Account](https://gist.github.com/sorrynofocus/9e61613e67add2c37b7921b25edf1f30)  [2026-07-20 00:58 UTC] - 1 file
