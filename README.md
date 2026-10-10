@@ -2,12 +2,16 @@
 
 - ai enthusiast - _i particularly enjoy AI development_
 - weathered
-- ex-Broadcom/Symantec - _I spent nearly 20 years at Symantec/Broadcom. Learned alot, made awesome friends._
+- ex-[Broadcom/Symantec] - _I spent nearly 20 years at Symantec/Broadcom. Learned alot, made awesome friends._
 - [Invisible War] - _a siFi dystopian adventure/action novel I authored a long time ago (my 1st)._
 - System over Syntax. _"it's no longer about code anymore... it's all about system domain design"._
+- Websites (work in progress) Mirrors but deployed in Vercel and Microsoft SWA: [Vercel: SorryNoFocus](https://my-web-app-wine-alpha.vercel.app/)  /  [Azure SWA: SorryNoFocus](https://icy-field-00abe291e.2.azurestaticapps.net/) 
+- I've joined **GitLab** and **_slowly_** [migrating there](https://gitlab.com/sorrynofocus).
+
+---
 
 <details>
-  <summary><strong>Checkout my Gists...</strong></summary>
+  <summary><strong>Checkout my Gists of different xyzzys! </strong></summary>
 <!-- GISTS-START -->
 
 <!-- This section is auto-generated. Do not edit manually. -->
@@ -25,3 +29,5 @@
 
 
 [Invisible War]: https://www.amazon.com/Invisible-War-Chris-Winters/dp/0998020915/ref=sr_1_1?dchild=1&keywords=chris+winters+invisible+war
+
+[Broadcom/Symantec]:https://www.broadcom.com/products/cybersecurity
